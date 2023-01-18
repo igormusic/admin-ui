@@ -5,6 +5,16 @@ It contains all the necessary configuration and some placeholder files to get yo
 
 ## Running the application
 
+Start local SQL sever:
+
+make run-sql.sh executable:
+
+`chmod +x myscript.sh`
+
+run the script:
+
+`./myscript.sh`
+
 The project is a standard Maven project. To run it from the command line,
 type `mvnw` (Windows), or `./mvnw` (Mac & Linux), then open
 http://localhost:8080 in your browser.
